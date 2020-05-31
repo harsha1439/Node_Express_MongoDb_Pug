@@ -1,6 +1,6 @@
-# React-App-Store_Inventory_Mgmt
+# NODE-EXPRESS-MONGODB APP
 
-## A simple React implementation Which can be used for store Inventory Management.
+## A Nodejs, Express, MongoDB implementation Which can be used for store collection.
 
 ## Running
 
